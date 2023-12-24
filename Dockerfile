@@ -1,4 +1,4 @@
-FROM hectorqin/reader
+FROM hectorqin/reader:openj9-latest
 
 # 时区
 ENV TZ=Asia/Shanghai
